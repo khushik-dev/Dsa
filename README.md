@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/khushik-dev/Dsa/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/khushik-dev/Dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khushik-dev/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/khushik-dev/Dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushik-dev/Dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/khushik-dev/Dsa/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/khushik-dev/Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
